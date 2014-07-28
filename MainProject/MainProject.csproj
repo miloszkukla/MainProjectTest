@@ -48,7 +48,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SupportingProject\SupportingProject\SupportingProject.csproj">
+    <ProjectReference Include="..\..\SupportingProjectTest\SupportingProject\SupportingProject.csproj">
       <Project>{dcee5348-83ac-48bd-940f-71f6d6468cdc}</Project>
       <Name>SupportingProject</Name>
     </ProjectReference>
