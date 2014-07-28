@@ -10,6 +10,7 @@ namespace MainProject
     {
         static void Main(string[] args)
         {
+            new SupportingProject.Class1().Test();
         }
     }
 }
